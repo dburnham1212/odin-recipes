@@ -1,0 +1,29 @@
+* {
+    background-color: aquamarine;
+}
+
+a:link{
+    background-color: black;
+    color: white;
+    text-decoration: none;
+}
+
+a:visited{
+    background-color: black;
+    color: white;
+    text-decoration: none;
+}
+
+a:hover{
+    background-color: grey;
+    font-style: white;
+}
+
+ul{
+    list-style-type: none;
+}
+
+img{
+    width: 50%;
+    height: auto;
+}
